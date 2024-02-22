@@ -1,0 +1,2 @@
+# Projektowanie oraz layout wtórnika z pasmem regulowanym prądem
+Wtórnik z pasmem regulowanym za pomocą przetwornika 5 bitowego przetwornika DAC, o zadanych parametrach. Symulacje, schemat oraz layout zrobiony przy pomocy Cadence Virtuoso
